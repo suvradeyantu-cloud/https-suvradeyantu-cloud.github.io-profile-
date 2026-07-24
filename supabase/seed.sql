@@ -1,0 +1,2 @@
+-- Seed data for Supabase development (optional)
+-- Add initial values if needed
